@@ -26,15 +26,14 @@ Project Modules :
 
 
 Test Environment :
+
  Post Master
 
 Error Code :
 
-200 - Success Response
-
-301 - Missing Input
-
-302 - Zero Division error
+1. 200 - Success Response
+2. 301 - Missing Input
+3. 302 - Zero Division error
 
 
 
@@ -50,9 +49,8 @@ Library Used :
 
 Port Used :
 
-Web Port No: 5000                   
-
-DB  Port No: 27017
+1. Web Port No: 5000                   
+2. DB  Port No: 27017
 
 Docker Config :
 
